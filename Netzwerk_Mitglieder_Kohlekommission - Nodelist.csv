@@ -1,0 +1,45 @@
+id,name,type,party,age,sex
+AG,Antje Grothus,0,NA,3,1
+ALae,Andreas Lämmel,0,1,3,2
+ALen,Andreas Lenz,0,2,1,2
+AN,Annekathrin Niebuhr,0,NA,NA,1
+AS,Andreas Scheidt,0,3,3,2
+BP,Barbara Praetorius,0,NA,NA,1
+Cdu,CDU,1,NA,NA,NA
+CH,Christine Herntier,0,6,4,1
+CN,Claudia Nemat,0,NA,3,1
+Csu,CSU,1,NA,NA,NA
+DK,Dieter Kempf,0,NA,4,2
+Eng,Energieunternehmen,1,NA,NA,NA
+ES,Eric Schweitzer,0,5,3,2
+Fdp,FDP,1,NA,NA,NA
+FM,Felix Matthes,0,NA,4,2
+Gew,Gewerkschaft,1,NA,NA,NA
+GH,Gerda Hasselfeldt,0,2,4,1
+GR,Gunda Röstel,0,4,3,1
+Gru,Gruene,1,NA,NA,NA
+HJS,Hans Joachim Schellnhuber,0,NA,4,2
+HWe,Hubert Weiger,0,NA,5,2
+HWo,Hannelore Wodtke,0,1,NA,1
+Ind,Industrie,1,NA,NA,NA
+JA,Jutta Allmendinger,0,3,4,1
+KN,Kai Niebert,0,NA,1,2
+KR,Katherina Reiche,0,1,2,1
+MKa,Martin Kaiser,0,NA,3,2
+MKr,Michael Kreuzberg,0,1,4,2
+MM,Matthias Miersch,0,3,2,2
+MP,Matthias Platzeck,0,3,4,2
+MV,Michael Vassiliadis,0,3,3,2
+Pol,Politik,1,NA,NA,NA
+Reg,Regionalvertreter,1,NA,NA,NA
+RPo,Ronald Pofalla,0,1,4,2
+RPr,Reiner Priggen,0,4,4,2
+RW,Ralf Wehrspohn,0,NA,2,2
+SKam,Steffen Kampeter,0,1,3,2
+SKap,Stefan Kapferer,0,5,3,2
+SKoer,Stefan Körzell,0,3,3,2
+Spd,SPD,1,NA,NA,NA
+ST,Stanislaw Tillich,0,1,4,2
+Umw,Umweltschutz,1,NA,NA,NA
+Ver,Verband,1,NA,NA,NA
+Wis,Wissenschaft,1,NA,NA,NA
